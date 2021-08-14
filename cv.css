@@ -1,0 +1,77 @@
+body{
+    background-color: grey;
+}
+
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: "calibri", Tahoma;
+    font-size: 16px;
+    border: 5px solid #52B066;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    padding: 20px;
+    background-color: white;
+}
+
+.infophoto{
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info{
+    float: left;
+    font-size: 18px;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+
+h2{
+    font-size: 28px;
+    color: #52B066;
+    border-bottom: 3px solid #52B066; 
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#forma-gauche p{
+    margin-bottom: 28px;
+    margin-right: 40px;
+}
+
+#expe-gauche p{
+    margin-bottom: 50px;
+    margin-right: 40px;
+}
+
+#extra-gauche p{
+    margin-bottom: 50px;
+    margin-right: 40px;
+}
+
+#compe-gauche p{
+    margin-bottom: 30px;
+    margin-right: 40px;
+}
